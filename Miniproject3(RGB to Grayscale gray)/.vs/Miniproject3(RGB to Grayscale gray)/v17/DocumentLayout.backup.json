@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\XLA\\Miniproject3(RGB to Grayscale gray)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C750162-C60D-471D-98C9-4CF943540F7C}|Miniproject3(RGB to Grayscale gray)\\Miniproject3(RGB to Grayscale gray).csproj|d:\\xla\\miniproject3(rgb to grayscale gray)\\miniproject3(rgb to grayscale gray)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C750162-C60D-471D-98C9-4CF943540F7C}|Miniproject3(RGB to Grayscale gray)\\Miniproject3(RGB to Grayscale gray).csproj|solutionrelative:miniproject3(rgb to grayscale gray)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C750162-C60D-471D-98C9-4CF943540F7C}|Miniproject3(RGB to Grayscale gray)\\Miniproject3(RGB to Grayscale gray).csproj|d:\\xla\\miniproject3(rgb to grayscale gray)\\miniproject3(rgb to grayscale gray)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C750162-C60D-471D-98C9-4CF943540F7C}|Miniproject3(RGB to Grayscale gray)\\Miniproject3(RGB to Grayscale gray).csproj|solutionrelative:miniproject3(rgb to grayscale gray)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\XLA\\Miniproject3(RGB to Grayscale gray)\\Miniproject3(RGB to Grayscale gray)\\Form1.cs",
+              "RelativeDocumentMoniker": "Miniproject3(RGB to Grayscale gray)\\Form1.cs",
+              "ToolTip": "D:\\XLA\\Miniproject3(RGB to Grayscale gray)\\Miniproject3(RGB to Grayscale gray)\\Form1.cs*",
+              "RelativeToolTip": "Miniproject3(RGB to Grayscale gray)\\Form1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:21:03.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\XLA\\Miniproject3(RGB to Grayscale gray)\\Miniproject3(RGB to Grayscale gray)\\Form1.cs",
+              "RelativeDocumentMoniker": "Miniproject3(RGB to Grayscale gray)\\Form1.cs",
+              "ToolTip": "D:\\XLA\\Miniproject3(RGB to Grayscale gray)\\Miniproject3(RGB to Grayscale gray)\\Form1.cs [Design]*",
+              "RelativeToolTip": "Miniproject3(RGB to Grayscale gray)\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:10:57.962Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

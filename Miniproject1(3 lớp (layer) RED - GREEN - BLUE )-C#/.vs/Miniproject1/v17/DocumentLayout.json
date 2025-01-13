@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\XLA\\Miniproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA396249-1B86-4C8E-9EFD-A85AE4B70A93}|Miniproject1\\Miniproject1.csproj|d:\\xla\\miniproject1\\miniproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA396249-1B86-4C8E-9EFD-A85AE4B70A93}|Miniproject1\\Miniproject1.csproj|solutionrelative:miniproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA396249-1B86-4C8E-9EFD-A85AE4B70A93}|Miniproject1\\Miniproject1.csproj|d:\\xla\\miniproject1\\miniproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA396249-1B86-4C8E-9EFD-A85AE4B70A93}|Miniproject1\\Miniproject1.csproj|solutionrelative:miniproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\XLA\\Miniproject1\\Miniproject1\\Form1.cs",
+              "RelativeDocumentMoniker": "Miniproject1\\Form1.cs",
+              "ToolTip": "D:\\XLA\\Miniproject1\\Miniproject1\\Form1.cs",
+              "RelativeToolTip": "Miniproject1\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvywAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:29:03.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\XLA\\Miniproject1\\Miniproject1\\Form1.cs",
+              "RelativeDocumentMoniker": "Miniproject1\\Form1.cs",
+              "ToolTip": "D:\\XLA\\Miniproject1\\Miniproject1\\Form1.cs [Design]",
+              "RelativeToolTip": "Miniproject1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:57:35.303Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Miniproject3(RGB to Grayscale gray).exe.config
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Miniproject3(RGB to Grayscale gray).exe
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Miniproject3(RGB to Grayscale gray).pdb
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Emgu.CV.UI.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Emgu.CV.UI.GL.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Emgu.CV.World.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\OpenTK.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\OpenTK.GLControl.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\ZedGraph.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Emgu.CV.UI.xml
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Emgu.CV.UI.GL.xml
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\Emgu.CV.World.xml
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\OpenTK.xml
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\OpenTK.GLControl.xml
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\ZedGraph.xml
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\de\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\es\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\fr\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\hu\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\it\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\ja\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\pt\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\ru\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\sk\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\sv\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\tr\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\obj\Debug\Miniproject3(RGB to Grayscale gray).csproj.AssemblyReference.cache
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\obj\Debug\Miniproject3_RGB_to_Grayscale_gray_.Form1.resources
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\obj\Debug\Miniproject3_RGB_to_Grayscale_gray_.Properties.Resources.resources
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\obj\Debug\Miniproject3(RGB to Grayscale gray).csproj.GenerateResource.cache
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\obj\Debug\Miniproject3(RGB to Grayscale gray).csproj.CoreCompileInputs.cache
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\obj\Debug\Miniproj.B09D87A6.Up2Date
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\obj\Debug\Miniproject3(RGB to Grayscale gray).exe
+D:\XLA\Miniproject3(RGB to Grayscale gray)\Miniproject3(RGB to Grayscale gray)\obj\Debug\Miniproject3(RGB to Grayscale gray).pdb
