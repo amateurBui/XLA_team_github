@@ -1,0 +1,42 @@
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\bin\Debug\bài 8.exe.config
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\bin\Debug\bài 8.exe
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\bin\Debug\bài 8.pdb
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\obj\Debug\bài 8.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\obj\Debug\bài_8.Form1.resources
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\obj\Debug\bài_8.Properties.Resources.resources
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\obj\Debug\bài 8.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\obj\Debug\bài 8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\obj\Debug\bài 8.exe
+C:\Users\Admin\Documents\Machine Vision\bài 8\bài 8\obj\Debug\bài 8.pdb
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\bin\Debug\bài 8.exe.config
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\bin\Debug\bài 8.exe
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\bin\Debug\bài 8.pdb
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\obj\Debug\bài 8.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\obj\Debug\bài_8.Form1.resources
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\obj\Debug\bài_8.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\obj\Debug\bài 8.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\obj\Debug\bài 8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\obj\Debug\bài 8.exe
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\New folder\bài 8\bài 8\obj\Debug\bài 8.pdb
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\bin\Debug\bài 8.exe.config
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\bin\Debug\bài 8.exe
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\bin\Debug\bài 8.pdb
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\bin\Debug\bài 8.exe.CodeAnalysisLog.xml
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\bin\Debug\bài 8.exe.lastcodeanalysissucceeded
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\obj\Debug\bài 8.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\obj\Debug\bài_8.Form1.resources
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\obj\Debug\bài_8.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\obj\Debug\bài 8.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\obj\Debug\bài 8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\obj\Debug\bài 8.exe
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project8\bài 8\bài 8\obj\Debug\bài 8.pdb
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\bin\Debug\bài 8.exe.config
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\bin\Debug\bài 8.exe
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\bin\Debug\bài 8.pdb
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\obj\Debug\bài 8.csproj.AssemblyReference.cache
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\obj\Debug\bài_8.Form1.resources
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\obj\Debug\bài_8.Properties.Resources.resources
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\obj\Debug\bài 8.csproj.GenerateResource.cache
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\obj\Debug\bài 8.csproj.CoreCompileInputs.cache
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\obj\Debug\bài 8.exe
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project8&7\bài 8\bài 8\obj\Debug\bài 8.pdb
