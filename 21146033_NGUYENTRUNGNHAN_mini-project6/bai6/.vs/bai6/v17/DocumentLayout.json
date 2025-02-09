@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F15573-A06D-43AD-9B5D-20F42FE2CE1E}|bai6\\bai6.csproj|d:\\xla\\moiw\\21146033_nguyentrungnhan_mini-project6\\bai6\\bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F15573-A06D-43AD-9B5D-20F42FE2CE1E}|bai6\\bai6.csproj|solutionrelative:bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F15573-A06D-43AD-9B5D-20F42FE2CE1E}|bai6\\bai6.csproj|D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2F15573-A06D-43AD-9B5D-20F42FE2CE1E}|bai6\\bai6.csproj|solutionrelative:bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F15573-A06D-43AD-9B5D-20F42FE2CE1E}|bai6\\bai6.csproj|D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\bai6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F15573-A06D-43AD-9B5D-20F42FE2CE1E}|bai6\\bai6.csproj|solutionrelative:bai6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\bai6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "bai6\\Form1.Designer.cs",
+              "ToolTip": "D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\bai6\\Form1.Designer.cs",
+              "RelativeToolTip": "bai6\\Form1.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewE8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:17:05.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\bai6\\Form1.cs",
+              "RelativeDocumentMoniker": "bai6\\Form1.cs",
+              "ToolTip": "D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\bai6\\Form1.cs [Design]",
+              "RelativeToolTip": "bai6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:17:05.446Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\bai6\\Form1.cs",
+              "RelativeDocumentMoniker": "bai6\\Form1.cs",
+              "ToolTip": "D:\\XLA\\MOIW\\21146033_NGUYENTRUNGNHAN_mini-project6\\bai6\\bai6\\Form1.cs",
+              "RelativeToolTip": "bai6\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:17:07.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
