@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\bin\Debug\bài 9.exe.config
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\bin\Debug\bài 9.exe
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\bin\Debug\bài 9.pdb
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\obj\Debug\bài 9.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\obj\Debug\bài_9.Form1.resources
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\obj\Debug\bài_9.Properties.Resources.resources
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\obj\Debug\bài 9.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\obj\Debug\bài 9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\obj\Debug\bài 9.exe
+C:\Users\Admin\Documents\Machine Vision\bài 9\bài 9\obj\Debug\bài 9.pdb
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\bin\Debug\bài 9.exe.config
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\bin\Debug\bài 9.exe
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\bin\Debug\bài 9.pdb
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\obj\Debug\bài 9.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\obj\Debug\bài_9.Form1.resources
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\obj\Debug\bài_9.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\obj\Debug\bài 9.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\obj\Debug\bài 9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\obj\Debug\bài 9.exe
+C:\Users\Admin\OneDrive\Documents\Visual Studio 2017\Projects\21146381_VOANHHAO_mini-project9\bài 9\bài 9\obj\Debug\bài 9.pdb
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\bin\Debug\bài 9.exe.config
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\bin\Debug\bài 9.exe
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\bin\Debug\bài 9.pdb
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\obj\Debug\bài 9.csproj.AssemblyReference.cache
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\obj\Debug\bài_9.Form1.resources
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\obj\Debug\bài_9.Properties.Resources.resources
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\obj\Debug\bài 9.csproj.GenerateResource.cache
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\obj\Debug\bài 9.csproj.CoreCompileInputs.cache
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\obj\Debug\bài 9.exe
+D:\XLA\MOIW\21146033_NGUYENTRUNGNHAN_mini-project9\bài 9\bài 9\obj\Debug\bài 9.pdb
